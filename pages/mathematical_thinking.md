@@ -4,6 +4,7 @@ title: Mathematical thinking
 
 ## Areas of Mathematics
 ### [[Formal logic]]
+## Theorems
 ## Nice quote about [[New Ways of Thinking]]
 ## The [[Banach–Tarski paradox]]
 ## Euclid's book 'Elements'
