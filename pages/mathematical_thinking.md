@@ -15,4 +15,3 @@ title: Mathematical thinking
 ### Every object of type _T_ has property _P_
 ### There is an object of type _T_ having property _P_
 ### If _Statement A_ then _Statement B_
-###
