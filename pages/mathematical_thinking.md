@@ -7,8 +7,8 @@ title: Mathematical thinking
 ## Theorems
 ### [[Prime Number Theorem]]
 ## Paradoxes
+### The [[Banach–Tarski paradox]]
 ## Nice quote about [[New Ways of Thinking]]
-## The [[Banach–Tarski paradox]]
 ## Euclid's book 'Elements'
 ## Mathematical statements are either:
 ### Object _a_ has property _P_
