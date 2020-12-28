@@ -1,1 +1,1 @@
-## 
+## [[Mathematical thinking]]
