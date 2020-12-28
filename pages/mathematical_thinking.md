@@ -10,6 +10,7 @@ title: Mathematical thinking
 ### The [[Banach–Tarski paradox]]
 ## Nice quote about [[New Ways of Thinking]]
 ## Euclid's book 'Elements'
+## Mathematical Language
 ## Mathematical statements are either:
 ### Object _a_ has property _P_
 ### Every object of type _T_ has property _P_
