@@ -5,10 +5,10 @@ title: Mathematical thinking
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
+## [[Prime Number Theorem]]
 ## Nice quote about [[New Ways of Thinking]]
 ## The [[Banach–Tarski paradox]]
 ## Euclid's book 'Elements'
-## [[Prime Number Theorem]]
 ## Mathematical statements are either:
 ### Object _a_ has property _P_
 ### Every object of type _T_ has property _P_
