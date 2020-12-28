@@ -16,4 +16,4 @@ title: Mathematical thinking
 #### If _Statement A_ then _Statement B_
 ## Misc Notes
 ### Nice quote about [[New Ways of Thinking]]
-## Euclid's book 'Elements'
+### Euclid's book 'Elements'
