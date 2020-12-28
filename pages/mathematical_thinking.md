@@ -5,7 +5,8 @@ title: Mathematical thinking
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
-## [[Prime Number Theorem]]
+### [[Prime Number Theorem]]
+## Paradoxes
 ## Nice quote about [[New Ways of Thinking]]
 ## The [[Banach–Tarski paradox]]
 ## Euclid's book 'Elements'
