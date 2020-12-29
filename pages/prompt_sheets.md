@@ -5,14 +5,14 @@ title: Prompt Sheets
 ## Work
 ### Georgina
 ### Chris
-Anna
+### Anna
 ### Szczepan
-Ryan and Rebecca
-Jacek and warehouse
-Eurowagens Shopify
-Langenhaart Shopify
+### Ryan and Rebecca
+### Jacek and warehouse
+### Eurowagens Shopify
+### Langenhaart Shopify
 Ebay 2FA
-Open Orders
+### Open Orders
 Building a PIm
 Stock level sync
 Brexit
