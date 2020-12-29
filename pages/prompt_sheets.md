@@ -16,16 +16,16 @@ title: Prompt Sheets
 ### Building a PIM
 ### Stock level sync
 ### Brexit
-Order processing / Order Manager .NET
-Planning / MS Planner
-Overall strategy
-Weekly strategy meeting
-Weekly data team meeting
-OneFeed and Google Shopping
-Emotive and Amazon
-Industry changes
-Office 365
-New starters or leavers
-Employment claims
-Emails
+### Order processing / Order Manager .NET
+### Planning / MS Planner
+### Overall strategy
+### Weekly strategy meeting
+### Weekly data team meeting
+### OneFeed and Google Shopping
+### Emotive and Amazon
+### Industry changes
+### Office 365
+### New starters or leavers
+### Employment claims
+### Emails
 ###
