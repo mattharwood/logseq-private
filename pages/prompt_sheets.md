@@ -4,9 +4,9 @@ title: Prompt Sheets
 
 ## Work
 ### Georgina
-Chris
+### Chris
 Anna
-Szczepan
+### Szczepan
 Ryan and Rebecca
 Jacek and warehouse
 Eurowagens Shopify
