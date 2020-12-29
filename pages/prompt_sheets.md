@@ -11,11 +11,11 @@ title: Prompt Sheets
 ### Jacek and warehouse
 ### Eurowagens Shopify
 ### Langenhaart Shopify
-Ebay 2FA
+### Ebay 2FA
 ### Open Orders
-Building a PIm
+### Building a PIm
 Stock level sync
-Brexit
+### Brexit
 Order processing / Order Manager .NET
 Planning / MS Planner
 Overall strategy
