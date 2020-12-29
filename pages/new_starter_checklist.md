@@ -13,11 +13,9 @@ title: New Starter Checklist
 ## People HR Account
 ## Added to All Staff teams chat and All Staff email list
 ## BitWarden account
-## Langenhaart Email Account (if needed) and Signature 
-
-Linnworks Account (if required) 
-
-PC Account 
+## Langenhaart Email Account (if needed) and Signature
+## Linnworks Account (if required)
+## PC Account 
 
 Drives Mapped 
 
@@ -31,4 +29,4 @@ People HR Account
 
 Added to All Staff teams chat and All Staff email list 
 
-BitWarden account 
+BitWarden account
