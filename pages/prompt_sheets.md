@@ -13,8 +13,8 @@ title: Prompt Sheets
 ### Langenhaart Shopify
 ### Ebay 2FA
 ### Open Orders
-### Building a PIm
-Stock level sync
+### Building a PIM
+### Stock level sync
 ### Brexit
 Order processing / Order Manager .NET
 Planning / MS Planner
