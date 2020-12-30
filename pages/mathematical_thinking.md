@@ -11,6 +11,8 @@ title: Mathematical thinking
 ##### Sisters reunited in checkout line at Safeway, after ten years apart
 ##### City authorities investigating large hole that has appeared in High Street
 ##### Mayors says bus passengers should wear seat belts
+#### Question 3
+##### Every head injury is important and should not be ignored.
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
