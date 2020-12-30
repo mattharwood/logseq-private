@@ -1,8 +1,8 @@
 ## [[Prompt Sheets]]
+## [[Goals]]
 ## [[Mathematical thinking]]
 ## [[Books]]
 ## [[Principles]]
-## [[Goals]]
 ## Work
 ### [[Meetings]]
 ### [[Checklists]]
