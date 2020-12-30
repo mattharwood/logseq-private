@@ -25,6 +25,7 @@ title: Mathematical thinking
 ### OR
 #### Denoted by v (called a disjunctive)
 ### NOT
+#### Denoted by ¬ (old style is a tilde ~)
 ## Theorems
 ### [[Prime Number Theorem]]
 ## Paradoxes
