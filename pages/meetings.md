@@ -2,8 +2,7 @@
 title: Meetings
 ---
 
-##
-Strategy Meetings
+## Strategy Meetings
 ###
 30th December 2020
 ####
