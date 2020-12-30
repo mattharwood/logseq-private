@@ -15,6 +15,8 @@ title: Mathematical thinking
 ##### Every head injury is important and should not be ignored.
 #### Question 4
 ##### Where there is a fire, do not use the elevator.
+#### Question 5
+#####
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
