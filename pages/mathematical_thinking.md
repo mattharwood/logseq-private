@@ -2,6 +2,13 @@
 title: Mathematical thinking
 ---
 
+## Course
+### Assignment 1
+#### Question 1
+##### The man who had a telescope saw the woman.
+##### The woman was seen by the man using a telescope.
+#### Question 2
+#####
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
