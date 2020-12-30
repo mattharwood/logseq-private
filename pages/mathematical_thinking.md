@@ -26,6 +26,7 @@ title: Mathematical thinking
 #### Denoted by v (called a disjunctive)
 #### Two types of OR
 ##### Exclusive-or
+###### a = 0 v b = 0
 ##### Inclusive-or
 ###### The form that is used in mathematics
 ###### ab = 0 if a =0 v b = 0
