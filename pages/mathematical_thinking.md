@@ -24,6 +24,11 @@ title: Mathematical thinking
 #### Denoted by ^ (often called a wedge)
 ### OR
 #### Denoted by v (called a disjunctive)
+#### Two types of OR
+##### Exclusive-or
+##### Inclusive-or
+###### The form that is used in mathematics
+###### ab = 0 if a =0 v b = 0
 ### NOT
 #### Denoted by ¬ (old style is a tilde ~)
 ## Theorems
