@@ -21,8 +21,10 @@ title: Mathematical thinking
 ### [[Formal logic]]
 ## Logical Combinators
 ### AND
+#### Denoted by ^ (often called a wedge)
 ### OR
-###
+#### Denoted by v (called a disjunctive)
+### NOT
 ## Theorems
 ### [[Prime Number Theorem]]
 ## Paradoxes
