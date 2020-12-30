@@ -8,7 +8,9 @@ title: Mathematical thinking
 ##### The man who had a telescope saw the woman.
 ##### The woman was seen by the man using a telescope.
 #### Question 2
-#####
+##### Sisters reunited in checkout line at Safeway, after ten years apart
+##### City authorities investigating large hole that has appeared in High Street
+##### Mayors says bus passengers should wear seat belts
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
