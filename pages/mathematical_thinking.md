@@ -16,7 +16,7 @@ title: Mathematical thinking
 #### Question 4
 ##### Where there is a fire, do not use the elevator.
 #### Question 5
-#####
+##### This page has no content, apart from this sentence.
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
