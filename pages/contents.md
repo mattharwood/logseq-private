@@ -2,7 +2,7 @@
 ## [[Books]]
 ## [[Principles]]
 ## [[Goals]]
-## [[Prompt Sheets]]
 ## Work
 ### [[Meetings]]
 ### [[Checklists]]
+### [[Prompt Sheets]]
