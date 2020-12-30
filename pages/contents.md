@@ -3,4 +3,6 @@
 ## [[Principles]]
 ## [[Goals]]
 ## [[Prompt Sheets]]
-## [[Checklists]]
+##
+[[Checklists]]
+## [[Meetings]]
