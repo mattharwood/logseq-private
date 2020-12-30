@@ -2,7 +2,7 @@
 ## [[Prompt Sheets]]
 ## [[Goals]]
 ## Studies
-## [[Mathematical thinking]]
+### [[Mathematical thinking]]
 ## [[Books]]
 ## Work
 ### [[Meetings]]
