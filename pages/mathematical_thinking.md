@@ -13,6 +13,8 @@ title: Mathematical thinking
 ##### Mayors says bus passengers should wear seat belts
 #### Question 3
 ##### Every head injury is important and should not be ignored.
+#### Question 4
+##### Where there is a fire, do not use the elevator.
 ## Areas of Mathematics
 ### [[Formal logic]]
 ## Theorems
