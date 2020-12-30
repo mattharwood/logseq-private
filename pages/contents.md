@@ -1,3 +1,4 @@
+## [[Prompt Sheets]]
 ## [[Mathematical thinking]]
 ## [[Books]]
 ## [[Principles]]
@@ -5,5 +6,4 @@
 ## Work
 ### [[Meetings]]
 ### [[Checklists]]
-### [[Prompt Sheets]]
 ## [[Studio Chill]]
