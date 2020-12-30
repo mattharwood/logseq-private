@@ -32,6 +32,8 @@ title: Mathematical thinking
 ###### ab = 0 if a =0 v b = 0
 ### NOT
 #### Denoted by ¬ (old style is a tilde ~)
+### Propositional Truth Tables
+#### Lists states for the conjuncts or disjuncts and whether they are true or false in isolation, and then whether the total is true or false
 ## Theorems
 ### [[Prime Number Theorem]]
 ## Paradoxes
