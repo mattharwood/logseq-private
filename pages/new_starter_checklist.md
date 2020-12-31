@@ -12,4 +12,5 @@ title: New Starter Checklist
 ## Staff Photo
 ## People HR Account
 ## Added to All Staff teams chat and All Staff email list
+## Add to sharepoint site
 ## BitWarden account
