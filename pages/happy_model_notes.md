@@ -9,4 +9,7 @@ title: Happy Model Notes
 :PROPERTIES:
 :done: 1609792533685
 :END:
+### TODO Insert Model Note method
+### TODO Insert all edited Model Notes method
+### TODO What to do if the attribute value doesn't exist
 ###
