@@ -12,4 +12,5 @@ title: Happy Model Notes
 ### TODO Insert Model Note method
 ### TODO Insert all edited Model Notes method
 ### TODO What to do if the attribute value doesn't exist
+### TODO Edit model notes for a whole parent code at once
 ###
