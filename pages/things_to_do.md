@@ -2,9 +2,10 @@
 title: Things to Do
 ---
 
-## TODO Return Garden Chair
+## DONE Return Garden Chair
 :PROPERTIES:
 :todo: 1609776874226
+:done: 1609778850939
 :END:
 ### Denny Enterprises Int't Ltd,
 Zone 1, 
