@@ -10,4 +10,5 @@
 ## Work
 ### [[Meetings]]
 ### [[Checklists]]
+### [[Power Automate Ideas]]
 ## [[Studio Chill]]
